@@ -27,6 +27,6 @@ Do oceny:
 	5. Typescript (10 pkt.)
 		1. Otypowanie projektu w jakimś stopniu
 		2. Zadania z typescripta na zajęciach
-	6. Aktywność (5 pkt.)
+	6. Aktywność (10 pkt.)
 		1. Obecności
 		2. Aktywność
