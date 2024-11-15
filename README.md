@@ -30,6 +30,8 @@ Do oceny:
    - typy te same (lub sensownie podobne) co w REST API
    - Query i Mutacje te same (lub sensownie podobne) co w REST API
    - minimum 1 własny scalar
+   - minimum 1 typ filtrujący
+   - minimum 1 typ inputowy (a najlepiej wszystkie)
 2. Implementacja resolverów gQL
    - zwracające odpowiednie dane
    - powinna się znaleźć w nich logika filtrowania, sortowania, paginacji
