@@ -35,6 +35,10 @@ Do oceny:
 2. Implementacja resolverów gQL
    - zwracające odpowiednie dane
    - powinna się znaleźć w nich logika filtrowania, sortowania, paginacji
+   - filtrowanie powinno pozwalać na wybór sposobu filtrowania:
+     - dla stringów: równy, zawiera, nie równy, nie zawiera
+     - dla liczb: równy, większy, mniejszy, większy lub równy, mniejszy lub równy
+     - dla innych typów: `¯\_(ツ)_/¯`
 3. Konfiguracja serwera GraphQL korzystajacego z w/w typów oraz resolverów
 4. Dodanie do projektu playgroundu (np. ApolloPlayground lub GraphQLi)
 
