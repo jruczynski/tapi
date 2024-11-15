@@ -52,11 +52,14 @@ Do oceny:
 1. Wygenerowanie pliku zgodnego ze specyfikacją OpenAPI na podstawie wcześniej zrobionego REST API
 2. Komentarze dokumentacji
 3. SwaggerUI
+4. tbd
 
 ### 5. Typescript (10 pkt.)
 
 1. Otypowanie projektu w jakimś stopniu
+   - w zależności od zaawansowania projektu i użytych bibliotek; im prostszy projekt tym więcej powinno być otypowane
 2. Zadania z typescripta na zajęciach
+   - **wstępnie(!)** wychodzi na zajęcia 29.11
 
 ### 6. Aktywność (10 pkt.)
 
