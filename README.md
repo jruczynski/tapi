@@ -20,24 +20,32 @@ Do oceny:
 5. HATEOS
    - podstawowa struktura linków do poruszania się po applikacji
 6. Konfiguracja serwera
-   - odpowiednia obsługa corsów
+   - odpowiednia obsługa corsów (przyjmujemy tylko sensowne originy)
 7. Poprawność RESTa
-   - zasady nazewnictwa resourców
-   - 
+   - zachowane zasady nazewnictwa resourców
 
 ### 2. GraphQL (10 pkt.)
 
 1. Stworzenie definicji typów gQL
+   - typy te same (lub sensownie podobne) co w REST API
+   - Query i Mutacje te same (lub sensownie podobne) co w REST API
+   - minimum 1 własny scalar
 2. Implementacja resolverów gQL
-4. Konfiguracja serwera GraphQL korzystajacego z w/w typów oraz resolverów
-5. Dodanie do projektu playgroundu (np. ApolloPlayground lub GraphQLi)
+   - zwracające odpowiednie dane
+   - powinna się znaleźć w nich logika filtrowania, sortowania, paginacji
+3. Konfiguracja serwera GraphQL korzystajacego z w/w typów oraz resolverów
+4. Dodanie do projektu playgroundu (np. ApolloPlayground lub GraphQLi)
 
 ### 3. gRPC (10 pkt.)
 
 1. Przygotowanie plików .proto z definicjami
+   - typy te same (lub sensownie podobne) co w REST API i GraphQL
+   - serwisy i metody te same (lub sensownie podobne) co w REST API i GraphQL
 2. Implementacja resolverów serwisów opisanych w pliku .proto
+   - powinna się znaleźć w nich logika filtrowania, sortowania, paginacji
 3. Konfiguracja serwera
-4. Konfiguracja klienta
+4. Konfiguracja klienta który będzie korzystał z serwera
+   - klient powinien być gotowy do odpalenia i przetestowania
 
 ### 4. Dokumentacja (10 pkt.)
 
