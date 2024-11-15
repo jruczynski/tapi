@@ -44,6 +44,7 @@ Do oceny:
 2. Implementacja resolverów serwisów opisanych w pliku .proto
    - powinna się znaleźć w nich logika filtrowania, sortowania, paginacji
 3. Konfiguracja serwera
+   - funkcje resolverów wyniesione do osobnych plików
 4. Konfiguracja klienta który będzie korzystał z serwera
    - klient powinien być gotowy do odpalenia i przetestowania
 
