@@ -57,9 +57,11 @@ Do oceny:
 ### 4. Dokumentacja (10 pkt.)
 
 1. Wygenerowanie pliku zgodnego ze specyfikacją OpenAPI na podstawie wcześniej zrobionego REST API
+   - musi zawierać schemy obiektów
 2. Komentarze dokumentacji
 3. SwaggerUI
-4. tbd
+4. Docusaurus z krótkim opisem o czym jest API, jakie technologie użyte itp.
+   - odnośniki do podstron
 
 ### 5. Typescript (10 pkt.)
 
