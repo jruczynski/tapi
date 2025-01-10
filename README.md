@@ -1,8 +1,19 @@
 # TAPI
 
+---
+
+## Egzamin
+
+Egzamin odbędzie się:
+**03.02.2025 r. godz. 13:00 w sali 405**
+
+---
+
+## Projekt
+
 Minimum 3 resourcy i minimum 3 poziomy zagniedżenia
 
-Do oceny:
+Do oceny projektu:
 
 ### 1. Rest (10 pkt.)
 
