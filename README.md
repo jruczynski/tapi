@@ -1,5 +1,9 @@
 # TAPI
 
+## Punkty
+
+__PUNKTY ZNAJDUJĄ SIĘ [TUTAJ](./punkty.md)__
+
 ---
 
 ## Egzamin
